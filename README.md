@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Charpe</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshcharpe&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshcharpe" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rakesh_charpe" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_charpe?logo=twitter&style=for-the-badge" alt="rakesh_charpe" /></a> </p>
 
-- 🔭 I’m currently looking for **Full-Stack/MERN-Stack Position**
+- 🔭 I’m currently looking for **SDE-1/Software Engineer Position**
 
-- 🌱 I’m currently learning **React.js , MongoDB**
+- 🌱 I’m currently Working in Tibco Software where I worked on **React.js , JQuery , Java , Docker ,Kubernetes, Linux**
 
 - 📝 I regularly write articles on [https://medium.com/@rakeshcharpe99](https://medium.com/@rakeshcharpe99)
 
-- 💬 Ask me about **HTML , CSS ,JS ,JAVA ,Problem solving Skill**
+- 💬 Ask me about **HTML , CSS ,JS ,JAVA ,Reactjs ,Problem solving Skill**
 
 - 📫 How to reach me **rakeshcharpe99@gmail.com**
 
