@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently looking for **SDE-1/Software Engineer Position**
 
-- 🌱 I’m currently Working in Tibco Software where I worked on **React.js , JQuery , Java , Docker ,Kubernetes, Linux**
+- 🌱 I’m currently Working in Tibco Software where I worked on **React.js, SpringBoot, Spring JPA, Spring Security, JQuery , Java , Docker ,Kubernetes, Linux**
 
 - 📝 I regularly write articles on [https://medium.com/@rakeshcharpe99](https://medium.com/@rakeshcharpe99)
 
-- 💬 Ask me about **HTML , CSS ,JS ,JAVA ,Reactjs ,Problem solving Skill**
+- 💬 Ask me about **SpringBoot, JS ,JAVA ,Reactjs ,Problem solving Skill**
 
 - 📫 How to reach me **rakeshcharpe99@gmail.com**
 
