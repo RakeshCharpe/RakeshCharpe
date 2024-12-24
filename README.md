@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Charpe</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">Passionate FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshcharpe&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshcharpe" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently looking for **SDE-1/Software Engineer Position**
 
-- 🌱 I’m currently Working in Tibco Software where I worked on **React.js, SpringBoot, Spring JPA, Spring Security, JQuery , Java , Docker ,Kubernetes, Linux**
+- 🌱 I’m currently Working in Tibco Software where I worked on **Java, SpringBoot, Spring JPA, Spring Security, ReactJS , JavaScript , Docker ,Kubernetes, Linux**
 
 - 📝 I regularly write articles on [https://medium.com/@rakeshcharpe99](https://medium.com/@rakeshcharpe99)
 
